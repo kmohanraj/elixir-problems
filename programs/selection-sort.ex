@@ -33,3 +33,8 @@ end
 
 Selection.sort([100,20,340, 234,23])
 |> IO.inspect
+
+
+
+# Output:
+# => [20, 23, 100, 234, 340]
